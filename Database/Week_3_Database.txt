@@ -1,0 +1,1 @@
+Complete the exercise mentioned here https://realpython.com/python-mysql/
